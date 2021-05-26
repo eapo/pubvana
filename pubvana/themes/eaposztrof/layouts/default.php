@@ -170,11 +170,6 @@
                         <hr>
 
                         <div class="row" id="footer">    
-                          <div class="col-sm-6">
-                            <p class="">
-                            <a href="http://www.bootply.com" target="_blank">Theme: Bootply</a> | <a href="http://pubvana.org" target="_blank">Powered by Pubvana</a>
-                            </p>
-                          </div>
                           <div class="col-sm-6 text-right">
                             <p>
                               <a href="/">&copy; <?php echo date('Y') ?> <?php echo $template['title']; ?></a>
